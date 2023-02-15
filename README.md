@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Baishalee
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on project related to python coding
+- 🌱 I’m currently learning LARAVEL
+- 💞️ I’m looking to collaborate on project related to Laravel coding
 - 📫 How to reach me GitHub
 
 <!---
